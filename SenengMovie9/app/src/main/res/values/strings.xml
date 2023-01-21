@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Seneng Movie 9</string>
+    <string name="app_title_movie">MOVIE</string>
+    <string name="app_title_tvshow">TV SHOW</string>
+    <string name="app_title_profile">PROFILE</string>
+
+    <!--  Movies Name  -->
+    <string name="movie_name_1">"Black Panther: Wakanda Forever"</string>
+    <string name="movie_name_2">"Avatar: The Way of Water"</string>
+    <string name="movie_name_3">"Squid Game"</string>
+    <string name="movie_name_4">"Incantation"</string>
+    <string name="movie_name_5">"John Wick 3: Parabellum"</string>
+    <string name="movie_name_6">"Horizon Line"</string>
+
+    <!--  Movies Detail  -->
+    <string name="movie_detail_1">"Kerajaan Wakanda tengah dilanda suasana duka usai kehilangan sosok raja mereka yaitu T'Challa (Chadwick Boseman). Momen duka tersebut justru berusaha dimanfaatkan oleh negara-negara lain yang ingin mencampuri urusan Wakanda. Ratu Ramonda (Angela Bassett), Shuri (Letitia Wright), M'Baku (Winston Duke), Okoye (Danai Gurira), dan para rakyat Wakanda kemudian harus bekerja keras untuk menyatukan seisi Wakanda demi melindungi negara mereka. Film ini amat dinanti-nantikan banyak orang, terutama penggila Marvel Cinematic Universe (MCU) usai pemeran utama film ini, Chadwick Boseman meninggal dunia pada Agustus 2020 silam. Lantas, bagaimana Marvel meracik film ini tanpa Chadwick Boseman?"</string>
+    <string name="movie_detail_2">"Film garapan sutradara James Cameron ini adalah kelanjutan dari cerita dari Film Avatar sebelumnya yang dirilis tahun 2009. Di film keduanya ini bercerita tentang Jake Sully dan Ney'tiri yang telah membentuk sebuah keluarga dan melakukan segalanya untuk tetap bersama. Namun, mereka harus meninggalkan rumah dan menjelajahi wilayah Pandora. Ketika ancaman kuno muncul kembali, Jake harus berperang melawan manusia."</string>
+    <string name="movie_detail_3">Squid Game menceritakan 456 orang putus asa yang mempertaruhkan nyawanya untuk mengikuti serangkaian permainan demi meraih hadiah 45,6 miliar won atau setara Rp 555 miliar. 456 peserta harus melewati berbagai macam rintangan dalam permainan yang sebenarnya mereka sudah pernah mainkan saat masa kecil.</string>
+    <string name="movie_detail_4">Terinspirasi dari kejadian nyata di Taiwan pada tahun 2005, film Incantation bercerita tentang Li Ronan, seorang ibu yang berusaha melindungi anak perempuannya dari kutukan. Kutukan tersebut berasal dari Ronan yang pada 6 tahun lalu dikutuk akibat melanggar hal yang tabu terhadap suatu kepercayaan.</string>
+    <string name="movie_detail_5">Seri ketiga "John Wick" ini akan mengisahkan kelanjutan nasib si pembunuh bayaran usai menghabisi nyawa anggota High Table dalam The Continental. Ia sendiri diburu dan hidupnya dihargai sebesar USD 14 juta (sekitar Rp 201 miliar). Diburu oleh berbagai pembunuh bayaran hebat, John akan dibantu oleh karakter baru yang misterius bernama Sofia (Halle Berry).</string>
+    <string name="movie_detail_6">"Sara berniat datang ke pernikahan sahabatnya di pulau Mauritius dengan menggunakan pesawat kecil. Dalam pesawat itu, Sara ditemani pilot Freddy dan Jackson. Petaka tiba ketika Freddy mengalami serangan jantung dan meninggal dunia. Sara dan Jackson harus menyelamatkan pesawat yang ditinggalkan dalam mode auto pilot tersebut. Mampukah mereka selamat dan tiba di pernikahan sahabatnya?"</string>
+
+    <!--  TV Shows Name  -->
+    <string name="tvshow_name_1">"Money Heist"</string>
+    <string name="tvshow_name_2">"The Queen's Gambit"</string>
+    <string name="tvshow_name_3">"Moon Knight"</string>
+    <string name="tvshow_name_4">"WandaVision"</string>
+    <string name="tvshow_name_5">"Hospital Playlist"</string>
+    <string name="tvshow_name_6">"Stranger Things"</string>
+
+    <!--  TV Shows Detail  -->
+    <string name="tvshow_detail_1">"Serial drama ini menceritakan sekelompok kriminal yang hendak merampok sebuah otoritas pencetakan uang di Spanyol. Kelompok ini dikendalikan seorang sosok tanpa identitas yang dikenal bernama The Professor. Dia merekrut orang-orang dari berbagai latar belakang kriminal, dengan kemampuan khusus."</string>
+    <string name="tvshow_detail_2">"The Queen's Gambit menceritakan tentang seorang anak yatim piatu jenius catur, Beth Harmon, dalam usahanya menjadi pemain catur terhebat di dunia. Di sisi lain dia juga berjuang mengatasi ketergantungannya pada obat dan alkohol. Judul mini seri ini mengacu pada pembukaan catur dengan nama yang sama."</string>
+    <string name="tvshow_detail_3">"Moon Knight sendiri berkisah tentang seorang pegawai museum bernama Steven Grant yang terbawa ke dalam sebuah konspirasi dewa-dewa Mesir saat dirinya melihat kejanggalan di kehidupan sehari-harinya, seperti penemuan identitas alter egonya, Marc Spector yang bekerja di bawah dewa Khonshu."</string>
+    <string name="tvshow_detail_4">"Wandavision, Kisah Perih Superhero Atas Rasa Kehilangan. Serial Wandavision ini mengisahkan kehidupan Wanda Maximoff dan Vision yang telah berkeluarga setelah kejadian blip oleh Thanos di film Avenger : Endgame."</string>
+    <string name="tvshow_detail_5">"Seri ini mengisahkan tentang pertemanan lima orang dokter yang telah bersahabat sejak di bangku kuliah, pada tahun 1999 yaitu 20 tahun sebelumnya. Ceritanya berpusat dengan kehidupan lima tokohnya sebagai seorang dokter, sahabat, hingga pemain band. Kelima dokter ini kemudian bekerja di rumah sakit yang sama."</string>
+    <string name="tvshow_detail_6">"Seri ini mengisahkan tentang pertemanan lima orang dokter yang telah bersahabat sejak di bangku kuliah, pada tahun 1999 yaitu 20 tahun sebelumnya. Ceritanya berpusat dengan kehidupan lima tokohnya sebagai seorang dokter, sahabat, hingga pemain band. Kelima dokter ini kemudian bekerja di rumah sakit yang sama."</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_movie">MOVIE</string>
+    <string name="fragment_tv_show">TV SHOW</string>
+    <string name="fragment_profile">PROFILE</string>
+    <string name="data">Arroyyan Fikri</string>
+
+</resources>
